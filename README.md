@@ -25,4 +25,5 @@ In this repository you will find my codes for everyday.
 21. Day - R
 22. Day - Pascal
 23. Day - Objective-C
-24. Day - Assembly (Ada)
+24. Day - Fortran
+25. Day - Assembly (Ada)
