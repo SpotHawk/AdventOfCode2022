@@ -79,7 +79,7 @@ In the example above, the top three Elves are the fourth Elf (with 24000 Calorie
 
 **Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?**
 
-[Solution](Program.cs)
+[Solution](01/Program.cs) [Input](01/input.txt)
 
 ---
 ## <a name="day2"></a>2. Day - Java
@@ -125,7 +125,7 @@ The total score is still calculated in the same way, but now you need to figure 
 
 **Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?**
 
-[Solution](Main.java)
+[Solution](02/Main.java) [Input](02/input.txt)
 
 ---
 ## <a name="day3"></a>3. Day - C
